@@ -2,6 +2,7 @@
 	margin:0px;
 	padding:0px;
 	font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+	box-sizing:border-box; /*Needed to include the padding and border in an element's total width and height*/
 }
 
 p{

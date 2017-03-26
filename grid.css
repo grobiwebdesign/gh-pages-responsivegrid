@@ -4,14 +4,13 @@
 }
 
 [class*="col-"]{
-	min-height:50px;
-	padding:75px 0;
-	text-align:center;
+	min-height:100px;
+	padding:10px;
 	display:inline-block;
 	float:left;
 	background-color:#dedede;
 	outline-color:#808080;
-	outline-style:solid;
+	outline-style:dotted;
 	}
 	
 
